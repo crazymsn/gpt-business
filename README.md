@@ -1,4 +1,4 @@
-# ChatGPT 商业源码
+# ChatGPT 商业源码，购买商业版源码请联系微信：17104642429
 
 演示网站前台：https://abc.meding.vip
 
